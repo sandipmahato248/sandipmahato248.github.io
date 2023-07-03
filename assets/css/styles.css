@@ -1,0 +1,42 @@
+.test{
+    color: red;
+}
+body{
+    background-color: #E8E9EB;
+    color: #313638;
+}
+.aboutMeHeader{
+    color:red;
+ }
+.aboutMeContent{
+    color: red;
+}
+.header{
+    color: blue;
+}
+
+span.first{
+    font-weight: 800;
+    color: purple;
+}
+
+
+.image-container {
+    display: inline-block;
+    height: 100px;
+  }
+
+  #movies a{
+    text-decoration: none;
+    color: rgb(214, 68, 0)
+}
+
+#movies a:visited{
+    color: rgb(55, 151, 106)
+}
+
+#movies a:hover{
+    color: rgb(83, 221, 157)
+}  
+
+ 
