@@ -1,8 +1,8 @@
-.test{
+.indexHeader{
     color: red;
 }
 body{
-    background-color: #E8E9EB;
+    background-color: #c1c2c4;
     color: #313638;
 }
 .aboutMeHeader{
@@ -11,32 +11,41 @@ body{
 .aboutMeContent{
     color: red;
 }
+.aboutMeDesc{
+    font-weight: 800;
+}
+
 .header{
+    font-family: 'Courier New', Courier, monospace;
     color: blue;
 }
 
-span.first{
+.courseList{
     font-weight: 800;
-    color: purple;
+    color:green;
 }
-
 
 .image-container {
     display: inline-block;
     height: 100px;
   }
 
-  #movies a{
+.movies a{
     text-decoration: none;
-    color: rgb(214, 68, 0)
+    color: rgb(240, 85, 13)
 }
 
-#movies a:visited{
-    color: rgb(55, 151, 106)
-}
-
-#movies a:hover{
-    color: rgb(83, 221, 157)
+.movies a:hover{
+    color: rgb(29, 163, 100)
 }  
+
+.neighbors{
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+    color:green;
+}
+
+
+
 
  
