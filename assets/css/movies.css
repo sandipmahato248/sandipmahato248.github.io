@@ -39,7 +39,7 @@ body {
     float: right;
     width: 250px;
     background-color: #a6c456;
-    height: 1100px ;
+    height: 1100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
 }
@@ -49,7 +49,7 @@ body {
     padding: 10pt;
 }
 
-#overviewBlock #textBlock dt{
+#overviewBlock #textBlock dt {
     padding: 5pt;
     font-size: 12px;
     font-weight: bold;
@@ -84,7 +84,7 @@ body {
 #reviewContent {
     columns: 2;
     column-width: 50%;
-    margin: 2%; 
+    margin: 2%;
 }
 
 .critic img {
@@ -102,4 +102,4 @@ body {
 
 .validation {
     float: right;
-} 
+}
