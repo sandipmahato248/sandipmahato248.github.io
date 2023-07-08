@@ -1,0 +1,105 @@
+body {
+    background-image: url("../image/images/background.png");
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#wrapper {
+    width: 100%;
+}
+
+.imgHeader {
+    background-image: url("../image/images/bannerbg.png");
+    height: 50px;
+    margin-top: -10px;
+}
+
+.imgHeader img {
+    display: block;
+    margin: auto;
+}
+
+#title h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#container {
+    border: 2px rgb(150, 145, 145) solid;
+    position: relative;
+    max-width: 850px;
+    overflow: hidden;
+    margin: auto;
+    border-radius: 20px;
+    padding: 0px;
+}
+
+#overviewBlock {
+    float: right;
+    width: 250px;
+    background-color: #a6c456;
+    height: 1100px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+}
+
+#overviewBlock #textBlock {
+    font-size: 12px;
+    padding: 10pt;
+}
+
+#overviewBlock #textBlock dt{
+    padding: 5pt;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#reviewBlock {
+    width: 600px;
+    height: 1000px;
+}
+
+#rating {
+    background-image: url("../image/images/rbg.png");
+    width: 100%;
+    height: 85px;
+}
+
+#rating span {
+    font-size: 40pt;
+    color: red;
+    height: 85px;
+    bottom: 10px;
+    position: relative;
+}
+
+.review {
+    border: 2px solid rgb(98, 96, 96);
+    border-radius: 10px;
+    background-color: #e8da8b;
+    padding: 8px;
+}
+
+#reviewContent {
+    columns: 2;
+    column-width: 50%;
+    margin: 2%; 
+}
+
+.critic img {
+    float: left
+}
+
+.pagination {
+    background-color: #a6c456;
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    bottom: 0px;
+}
+
+.validation {
+    float: right;
+} 
